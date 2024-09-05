@@ -107,6 +107,11 @@ margin-top:50px;
 
     .details {
         margin-top: 30px;
+        flex-direction: column;
+    }
+
+    .col {
+        margin-bottom: 20px;
     }
 
     .col img {
